@@ -34,8 +34,6 @@ from IPython.display import HTML
 
 # Relevant Links
 
-- My Medium article
-- - https://medium.com/@mithi/advanced-lane-finding-using-computer-vision-techniques-7f3230b6c6f2
 - My submitted detailed technical writeup 
 - - https://github.com/mithi/advanced-lane-detection/blob/master/WRITEUP.pdf
 - Udacity's project page
