@@ -1,4 +1,4 @@
-## Writeup of advance lane detection
+## Writeup of advance lane detection by Chunlei Zhang
 
 ---
 
